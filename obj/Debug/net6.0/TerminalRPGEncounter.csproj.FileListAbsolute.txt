@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\bin\Debug\net6.0\TerminalRPGEncounter.exe
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\bin\Debug\net6.0\TerminalRPGEncounter.deps.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\bin\Debug\net6.0\TerminalRPGEncounter.runtimeconfig.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\bin\Debug\net6.0\TerminalRPGEncounter.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\bin\Debug\net6.0\TerminalRPGEncounter.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\refint\TerminalRPGEncounter.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\TerminalRPGEncounter.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\TerminalRPGEncounter\obj\Debug\net6.0\ref\TerminalRPGEncounter.dll
